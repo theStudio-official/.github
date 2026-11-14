@@ -16,4 +16,4 @@ YouTube: https://www.youtube.com/@official._.theStudio
 TikTok: https://www.tiktok.com/@thestudio._.official
 
 ## Projects
-TBA
+[theBlocks!](https://github.com/theStudio-official/theBlocks) - A simple, open-source alternative to Block Blast
