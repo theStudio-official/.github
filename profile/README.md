@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/theStudio-official/.github/a3d72ed6c631978a07bf7427a907ad5ab912c150/horizontallogo1.png)
+![Logo](https://raw.githubusercontent.com/theStudio-official/.github/refs/heads/main/horizontallogo1.png)
 
 
 # theStudio
